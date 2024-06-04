@@ -42,7 +42,7 @@ main {
     color: black;
     min-width: 250px;
     max-width: 600px;
-    padding: 5px;
+    padding-left: 2px;
     margin: auto;
     margin-bottom: none;
     text-align: justify;
