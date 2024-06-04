@@ -62,6 +62,7 @@ main h2 {
 
 main p {
     margin: 15px 0px;
+    margin-bottom: 0px;
     text-align: justify;
     text-indent: 30px;
     font-size: 17px;
@@ -76,7 +77,29 @@ img {
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.329);
 }
 a{
+    font-family: 'Bebas Neue';
     text-decoration: none;
     color: blue;
-    font-weight: bold;
+    font-weight: normal;
+    letter-spacing: 1.3px;
 }
+footer{
+    margin: auto;
+    min-width: 250px;
+    max-width: 589.590px;
+    border: 1px solid black;
+    height: 30px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer > p > button > a{
+    color: white;
+    background-color: black;
+    box-shadow: 0px 0px 5px white;
+    text-align: left;
+  
+}
+
