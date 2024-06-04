@@ -17,7 +17,9 @@
 }
 
 body {
-    background-image: url(img/fundo4.jpg);
+    margin: 0px;
+    padding: 0px;
+    background-image: url(imgAnime/fundo4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -42,7 +44,7 @@ main {
     color: black;
     min-width: 250px;
     max-width: 600px;
-    padding-left: 2px;
+    padding-left: 1.5px;
     margin: auto;
     margin-bottom: none;
     text-align: justify;
@@ -63,7 +65,7 @@ main p {
     text-align: justify;
     text-indent: 30px;
     font-size: 17px;
-    padding-right: 2px;
+    padding-right: 5px;
 }
 
 img {
